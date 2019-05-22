@@ -10,7 +10,7 @@ namespace Project.Models
 
         public int Age { get; set; }
 
-        public float Weight { get; set; }
+        public int Weight { get; set; }
 
         public string Breed { get; set; }
     }
