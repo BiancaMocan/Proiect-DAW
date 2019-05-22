@@ -1,0 +1,10 @@
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\bin\Debug\netcoreapp1.1\APIProject.deps.json
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\bin\Debug\netcoreapp1.1\APIProject.runtimeconfig.json
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\bin\Debug\netcoreapp1.1\APIProject.runtimeconfig.dev.json
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\bin\Debug\netcoreapp1.1\APIProject.dll
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\obj\Debug\netcoreapp1.1\APIProject.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\obj\Debug\netcoreapp1.1\APIProject.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\obj\Debug\netcoreapp1.1\APIProject.AssemblyInfo.cs
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\bin\Debug\netcoreapp1.1\APIProject.pdb
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\obj\Debug\netcoreapp1.1\APIProject.dll
+C:\Users\Bianca\Desktop\Proiect-DAW\APIProject\APIProject\obj\Debug\netcoreapp1.1\APIProject.pdb

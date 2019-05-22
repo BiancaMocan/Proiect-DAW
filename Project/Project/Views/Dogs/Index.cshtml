@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <h3>List of Dogs</h3>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dog in Project.Controllers.DogsController.dogs)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => dog.Name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = dog.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = dog.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = dog.Id })
+                </td>
+            </tr>
+        }
+        <tr>
+            <td>
+                @Html.ActionLink("Create new", "Create")
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
